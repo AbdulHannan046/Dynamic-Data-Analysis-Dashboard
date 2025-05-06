@@ -1,0 +1,11 @@
+﻿ProductID,ProductName,Category,StockQuantity,UnitPrice,TotalSales,LastRestockDate
+101,Wireless Mouse,Electronics,150,20,5000,2024-04-01
+102,Gaming Keyboard,Electronics,80,50,4000,2024-03-15
+103,USB-C Charger,Electronics,200,15,3000,2024-04-10
+104,Notebook 200 Pages,Stationery,300,5,2000,2024-02-20
+105,Gel Pen Blue,Stationery,500,1,1500,2024-03-05
+106,Office Chair,Office Supplies,60,120,7200,2024-01-25
+107,Desk Lamp,Office Supplies,120,35,4200,2024-03-30
+108,Noise Cancelling Headphones,Electronics,45,150,6750,2024-02-28
+109,Water Bottle 1L,Stationery,400,8,3200,2024-03-18
+110,Backpack Laptop,Accessories,90,60,5400,2024-04-05
