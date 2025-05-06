@@ -5,3 +5,5 @@ matplotlib
 numpy
 seaborn
 transformers
+tensorflow
+pytorch
